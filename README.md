@@ -1,0 +1,4 @@
+Katas
+=====
+
+Testing using Katas
